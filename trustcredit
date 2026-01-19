@@ -1,1 +1,12 @@
-111111111111111
+[ 
+        {
+                "objc_name": "trustcredit",
+                "objc_path": "https://test-phl-api.fyinformation.cc",
+                "objc_salt": "ydOxkH5nAWPCsNv1",
+                "objc_type": 0,
+                "objc_product_path": "https://api.trustcredit.cyou",
+                "objc_product_salt": "iqOHLVdtXubkOU5i",
+                "objc_adjust_token": "",
+                "objc_appstore_id": ""
+        }
+]
